@@ -11,7 +11,7 @@ in total in classification models, but these results may be misleading due to th
 this project, we evaluated the performance of the following class imbalanced strategies and machine learning 
 algorithms and compared their performance result.
  
-Class imbalanced strategies:
+Used Class imbalanced strategies:
 * SMOTE
 * SMOTEENN
 * Tomek Link
